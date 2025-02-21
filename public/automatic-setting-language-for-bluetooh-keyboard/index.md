@@ -1,10 +1,10 @@
 ---
-title: 'Zipando arquivos com java'
-date: '2021-04-13'
-spoiler: "Aprenda a zippar multiplos arquivos e pastas utilizando java."
+title: 'How to automatically switch keyboard layout when your bluetooth device connects'
+date: '2024-10-31'
+spoiler: "How to automatically switch keyboard layout when your bluetooth device connects."
 ---
 
-# Tutorial: How to Automatically Switch Keyboard Layout When Your Bluetooth Device Connects
+# How to automatically switch keyboard layout when your bluetooth device connects
 
 This guide will configure a `udev` rule to trigger a script that changes the keyboard layout when a specific Bluetooth device is connected.
 
